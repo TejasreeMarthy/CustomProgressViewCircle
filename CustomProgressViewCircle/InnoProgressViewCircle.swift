@@ -2,7 +2,7 @@
 //  InnoProgressView.swift
 //  swift-custom-ui
 //
-//  Created by Deepthi Muramshetty on 09/05/17.
+//  Created by Tejasree Marthy on 01/11/17.
 //  Copyright © 2017 Innominds Mobility. All rights reserved.
 //
 
